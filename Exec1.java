@@ -19,7 +19,6 @@ public class Exec1 {
      boolean isValidate = false;
      
      
-     
     Scanner scanner = new Scanner(System.in);
     DecimalFormat df = new DecimalFormat("#.00");
      
